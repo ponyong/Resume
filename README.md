@@ -30,9 +30,16 @@
 
 ## 사용 언어 및 관심사
 
-Java ( Spring, Algorithm ) < 주 언어 >
-JavaScript ( Vue.js )
-Golang
+< 사용언어 >
+
+- Java ( Spring, Algorithm ) < 주 언어 >
+- JavaScript ( Vue.js )
+- Golang
+
+< 관심사 >
+
+- kubernetes
+- docker
 
 ## 프로젝트 소개
 
